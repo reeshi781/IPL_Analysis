@@ -33,4 +33,4 @@ Matches Won based on Result Type:
 
 Categorize matches based on result types (e.g., win by runs, win by wickets, tied, abandoned, etc.).
 Display the number of matches won by each result type using bar plots or pie charts.
-Report Generation:
+
